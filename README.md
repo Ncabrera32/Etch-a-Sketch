@@ -9,3 +9,5 @@
 4th commit added random color and normal color functions to sketch board
 
 5th commit added function to reset board
+
+6th commit finsihed project set up css and finalized html
